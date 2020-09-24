@@ -1,0 +1,89 @@
+/*body {background-color: black;
+}*/
+body{
+	background-color: rgb(056, 066, 072);
+}
+header {
+	background-color: rgb(052, 119, 149);
+	text-align: center;
+	color:white;
+	width: 828px;
+	height: 55px;
+	border-radius: 8px;
+	border: rgb(056, 066, 072) 2px solid;
+}
+
+nav{
+	background-color: rgb(052, 119, 149);
+	text-align: center;
+	color:white;
+	border: rgb(056, 066, 072) 2px solid;
+	width: 223px;
+	height: 296px;
+	border-radius: 8px;
+	float:left;
+}
+
+section{
+	background-color: rgb(052, 119, 149);
+	text-align: center;
+	color:white;
+	border: rgb(056, 066, 072) 2px solid;
+	width: 374px;
+	height: 296px;
+	border-radius: 8px;
+	float:left;
+}
+
+article {
+  	text-align: center;
+	background-color: rgb(001, 030, 048);
+	color:white;
+	width: 350px;
+	height: 130px;
+	margin: 0px 0px 0px 10px;
+	border-radius: 8px;
+	border: black 2px solid;
+}
+
+aside{
+	background-color: rgb(052, 119, 149);
+	text-align: center;
+	color:white;
+	border: rgb(056, 066, 072) 2px solid;
+	width: 223px;
+	height: 296px;
+	border-radius: 8px;
+	float:left;
+}
+
+footer{
+	background-color: rgb(052, 119, 149);
+	text-align: center;
+	color:white;
+	border: rgb(056, 066, 072) 2px solid;
+	width: 828px;
+	height: 55px;
+	border-radius: 8px;
+	clear:both;
+}
+
+.headerInside{
+	background-color: rgb(001, 030, 048);
+	text-align: center;
+	color:white;
+	border-radius: 8px;
+	width: 355px;
+	height: 40px;
+	margin: 0px 0px 5px 10px;
+}
+
+.footerInside{
+	background-color: rgb(001, 030, 048);
+	text-align: center;
+	color:white;
+	border-radius: 8px;
+	width: 355px;
+	height: 40px;
+	margin: -11px 0px 0px 10px;
+}
